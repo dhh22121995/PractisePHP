@@ -19,11 +19,11 @@ and open the template in the editor.
         <div class="fullscreenDiv">
 
             <div class="center" style="font-size: 100px">
-                <div class="container">
-                    <h2>Đoàn Hoàng Huy</h2>
-                    <p> My practise server</p>
+                
+                    <h1> Đoàn Hoàng Huy</h1>
+                    
                     <img src="images/avatar.jpg" class="img-circle" alt="Cinque Terre" width="304" height="236"> 
-                </div>
+                
             </div>
         </div>
         <?php
