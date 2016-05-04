@@ -20,7 +20,7 @@ and open the template in the editor.
         <?php
             $redirect_page = 'tryYourBestSlogan.php';
             
-            $redirect = FALSE; 
+            $redirect = true; 
             
             if($redirect == true){
                 header("Location: ".$redirect_page);
