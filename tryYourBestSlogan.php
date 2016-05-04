@@ -21,6 +21,7 @@ and open the template in the editor.
             <div class="center" style="font-size: 100px">
                 <div class="container">
                     <h2>Đoàn Hoàng Huy</h2>
+                    <p> My practise server</p>
                     <img src="images/avatar.jpg" class="img-circle" alt="Cinque Terre" width="304" height="236"> 
                 </div>
             </div>
