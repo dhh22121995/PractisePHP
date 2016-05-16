@@ -3,8 +3,13 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/F:/xampp/htdocs/Practise_PHP/simpleContactForm.php</file>
-            <file>file:/F:/xampp/htdocs/Practise_PHP/index.php</file>
+            <file>file:/F:/xampp/htdocs/PractisePHP/connect_mysql_inc.php</file>
+            <file>file:/F:/xampp/htdocs/PractisePHP/loggedIn.php</file>
+            <file>file:/F:/xampp/htdocs/PractisePHP/searchEngine.php</file>
+            <file>file:/F:/xampp/htdocs/PractisePHP/necessaryFunctions.php</file>
+            <file>file:/F:/xampp/htdocs/PractisePHP/logOut.php</file>
+            <file>file:/F:/xampp/htdocs/PractisePHP/core.inc.php</file>
+            <file>file:/F:/xampp/htdocs/PractisePHP/loginForm.php</file>
         </group>
     </open-files>
 </project-private>
