@@ -11,15 +11,15 @@ $host = 'localhost';
 /**
  * Uncomment if you test on localhost
  */
-$user = 'practisephp_name';
-$password = '123456';
-
-$db = 'practisephp_name';
-
-//$user = 'u153249476_name';
+//$user = 'practisephp_name';
 //$password = '123456';
 //
-//$db = 'u153249476_name';
+//$db = 'practisephp_name';
+
+$user = 'u153249476_name';
+$password = '123456';
+
+$db = 'u153249476_name';
 
 try {
     $link = mysqli_connect($host, $user, $password, $db);
